@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Alur Vorta Recipe | My Recipe Blog</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Alur Vorta Recipe</h1>
+
+    <p>Alur vorta is a delicious recipe made with potatoes. This dish is usually served with rice, lentil soup, or whatever you wish.</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>3–4 medium-sized potatoes</li>
+      <li>1 medium-sized onion</li>
+      <li>3–4 fire-roasted dried chilies</li>
+      <li>Salt (as needed)</li>
+      <li>Mustard oil</li>
+      <li>Coriander leaves</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>First, take a cooking pot and put all the potatoes into it. Wash the potatoes properly. Then, add enough water to fully submerge the potatoes. Boil them over high heat for about 15 minutes. After boiling, turn off the stove and let the potatoes cool down.</li>
+      <li>Once cooled, grab the boiled potatoes and peel them carefully.</li>
+      <li>Take a bowl and mash the potatoes one by one. (Don't forget to wash your hands before mashing!)</li>
+      <li>Chop the onion, coriander leaves, and roasted chilies finely. Add them to the bowl. Add a pinch of salt (or as needed for taste). Add some mustard oil. Now mash everything together, mix well, and your dish is ready to serve!</li>
+    </ol>
+
+    <img src="https://i0.wp.com/shanazrafiq.com/~shanazra/wp-content/uploads/2018/02/1-DSC_0039-1002x1024&ssl=1" alt="A picture of Alur Vorta recipe.">
+  </body>
+</html>
+
